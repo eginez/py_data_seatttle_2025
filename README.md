@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/eginez/py_data_seatttle_2025.git
-cd py-data_seattle_2025
+cd py_data_seattle_2025
 ```
 
 ### Installation
