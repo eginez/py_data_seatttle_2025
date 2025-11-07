@@ -1,0 +1,7 @@
+venv/
+src/__pycache__/
+src/data
+
+# Temporary presentation source files
+current_prez.pdf
+extract_pdf_images.py
