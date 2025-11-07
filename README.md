@@ -1,7 +1,5 @@
 # py-data_seattle
 
-A quantum computing project using Qiskit, featuring notebooks on graph algorithms and quantum layout optimization.
-
 ## Getting Started
 
 ### Prerequisites
